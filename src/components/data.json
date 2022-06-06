@@ -1,0 +1,19 @@
+actor: "Daniel Radcliffe"
+alive: true
+alternate_actors: []
+alternate_names: []
+ancestry: "half-blood"
+dateOfBirth: "31-07-1980"
+eyeColour: "green"
+gender: "male"
+hairColour: "black"
+hogwartsStaff: false
+hogwartsStudent: true
+house: "Gryffindor"
+image: "http://hp-api.herokuapp.com/images/harry.jpg"
+name: "Harry Potter"
+patronus: "stag"
+species: "human"
+wand: {wood: 'holly', core: 'phoenix feather', length: 11}
+wizard: true
+yearOfBirth: 1980
