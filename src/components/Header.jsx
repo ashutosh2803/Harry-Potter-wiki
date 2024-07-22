@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div style={{textAlign: "center", fontSize: "50px", margin: "1%", letterSpacing: "0.5ch", color: "white"}}>Harry Potter Wiki</div>
+    <div className='display-3 font-weight-bolder' style={{textAlign: "center", margin: "1%", letterSpacing: "0.5ch", color: "#ffff00"}}>Harry Potter Wiki</div>
   )
 }
 
